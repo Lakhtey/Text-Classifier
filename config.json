@@ -1,0 +1,5 @@
+{
+    "_index" : "mepclass",
+    "_elasticSearchUrl" : "http://192.168.6.238:9200",
+    "_encodingPath": "models/classes.npy"
+  }
